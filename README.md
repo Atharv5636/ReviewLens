@@ -1,6 +1,6 @@
 # 🔍 ReviewLens — Sentiment Analysis & Insight Dashboard
 
-> **Capstone Project — B.Tech Data Science & AI**  
+> **Capstone Project — BSc(Honors) Data Science & AI**  
 > Classifies real customer reviews as positive, negative, or neutral using
 > TF-IDF + Logistic Regression, trained on **real Kaggle review data**.
 
