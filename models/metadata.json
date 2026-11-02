@@ -1,6 +1,6 @@
 {
   "model_name": "LogisticRegression",
-  "trained_at": "2026-07-30T01:01:39.720556",
+  "trained_at": "2026-11-02T22:53:46.391406",
   "number_of_training_samples": 24464,
   "number_of_test_samples": 6116,
   "class_distribution": {
@@ -17,25 +17,25 @@
     }
   },
   "metrics": {
-    "accuracy": 0.782,
-    "macro_f1": 0.6089,
-    "weighted_f1": 0.782
+    "accuracy": 0.783,
+    "macro_f1": 0.6088,
+    "weighted_f1": 0.7826
   },
   "confusion_matrix": [
     [
-      958,
-      134,
-      367
+      959,
+      129,
+      371
     ],
     [
-      107,
-      125,
-      194
+      110,
+      123,
+      193
     ],
     [
-      348,
-      183,
-      3700
+      342,
+      182,
+      3707
     ]
   ],
   "confusion_matrix_labels": [
@@ -45,46 +45,46 @@
   ],
   "top_positive_features": [
     "great",
+    "love",
     "course",
     "amazing",
-    "love",
     "memory",
-    "excellent",
     "excelente",
+    "excellent",
     "life",
-    "tablet",
     "storage",
+    "tablet",
     "great course",
-    "film",
-    "informative",
     "brilliant",
-    "tap",
+    "film",
     "really like",
+    "tap",
     "beste",
-    "family",
     "enjoyed",
-    "beautiful"
+    "family",
+    "beautiful",
+    "thank"
   ],
   "top_negative_features": [
     "useless",
     "awful",
     "movie",
     "acting",
-    "lost",
     "poorly",
+    "lost",
     "stupid",
     "disappointed",
-    "character",
-    "minute",
-    "even",
     "deleted",
-    "difficult use",
-    "terrible",
-    "boring",
+    "minute",
+    "character",
     "film",
+    "difficult use",
+    "even",
     "would recommend",
+    "boring",
     "one star",
-    "nothing",
-    "uninstalled"
+    "terrible",
+    "uninstalled",
+    "nothing"
   ]
 }
